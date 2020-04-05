@@ -4,7 +4,9 @@ CoronaBuster Kullanıcı mahremiyeti ön planda geri dönüdük kullanıcı risk
 
 
 ### Nasıl yardım edebilirim?
-Aşağıdaki niteliklere sahipseniz bizim ile iletişime gecebilirsiniz.
+Aşağıdaki niteliklere sahipseniz bizim ile iletişime gecebilirsiniz. 
+
+İletişim için "Kimler yardım etmek istiyor?" başlıklı issue'ya comment bırakabilirsiniz https://github.com/CoronaBuster/CoronaBuster/issues/1 
 
 - Lead Frontend developer 
   - Admin paneli ve landing page den sorumlu olacak, ve koordinasyonu sağlayacak
