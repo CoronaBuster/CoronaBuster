@@ -28,11 +28,11 @@ Aşağıdaki niteliklere sahipseniz bizim ile iletişime gecebilirsiniz.
   - Code review ve geri dönüş yapabilmeli pull requestler için
 - Android SDK Lead
   - Bluetooth Low Energy ile kontak tracing yapıyoruz
-  - Backgorund servis kullanılarak , periodik olarak BLE advertisment paketi yayınlıyoruz
+  - Background servis kullanılarak, periodik olarak BLE advertisment paketi yayınlıyoruz
   - Ve diğer telefonlardan yayınlanan BLE paketlerini scan ediyoruz
 - IOS SDK Lead
   - Bluetooth Low Energy ile kontak tracing yapıyoruz
-  - Backgorund servis kullanılarak , periodik olarak BLE advertisment paketi yayınlıyoruz
+  - Background servis kullanılarak, periodik olarak BLE advertisment paketi yayınlıyoruz
   - Ve diğer telefonlardan yayınlanan BLE paketlerini scan ediyoruz
 - Hukuk ve Mahremiyet, KVKK konularında uzman avukat
   - KVKK uyumlu terms and privacy statementların yazılması
