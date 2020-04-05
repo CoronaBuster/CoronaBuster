@@ -60,7 +60,7 @@ Aşağıdaki niteliklere sahipseniz bizim ile iletişime gecebilirsiniz.
   - Zaman karşı yarıştığımızı unutmayalım her türlü yardım önemli
 
 
-### Projects / repos
+### Projecler / repolar
 - https://github.com/CoronaBuster/CoronaBuster - Project general inforrmation
 - https://github.com/CoronaBuster/api - Backend API
 - https://github.com/CoronaBuster/android-app - Android App
@@ -71,7 +71,7 @@ Aşağıdaki niteliklere sahipseniz bizim ile iletişime gecebilirsiniz.
 - https://github.com/CoronaBuster/docs - Design and documentation
 - https://github.com/CoronaBuster/www - Landing page
 
-### How to clone all projects
+### Bütün repoları clonelamak için:
 ```bash
 mkdir coronabuster
 cd coronabuster
