@@ -1,5 +1,5 @@
 # CoronaBuster
-CoronaBuster Kullanıcı mahremiyeti ön planda geri dönüdük kullanıcı risk puanı hesaplama sistemi.
+CoronaBuster, kullanıcı mahremiyeti önplanda tutularak geri dönüdük (back tracing) kullanıcı risk puanı hesaplama sistemi. BLE ile virus pozitif kullanıcılar ile kontak suresi ve mesafe hesaplanarak kullanıcılar için risk scoru hesaplayarak, hedefli karantina, maske dağıtımı, corona testi gibi uygulamaların optimizasyonu hedeflenmekte.
 
 
 
