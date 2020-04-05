@@ -8,6 +8,8 @@ Aşağıdaki niteliklere sahipseniz bizim ile iletişime gecebilirsiniz.
 
 İletişim için "Kimler yardım etmek istiyor?" başlıklı issue'ya comment bırakabilirsiniz https://github.com/CoronaBuster/CoronaBuster/issues/1 
 
+
+#### Eksikler
 - Lead Frontend developer 
   - Admin paneli ve landing page den sorumlu olacak, ve koordinasyonu sağlayacak
   - 2 projede de react kullanmaya karar verdik (populerlik yüzünden). react deneyimi gerekli
