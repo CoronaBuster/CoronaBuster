@@ -60,7 +60,7 @@ Aşağıdaki niteliklere sahipseniz bizim ile iletişime gecebilirsiniz.
   - Zaman karşı yarıştığımızı unutmayalım her türlü yardım önemli
 
 
-### Projecler / repolar
+### Projeler / repolar
 - https://github.com/CoronaBuster/CoronaBuster - Project general inforrmation
 - https://github.com/CoronaBuster/api - Backend API
 - https://github.com/CoronaBuster/android-app - Android App
