@@ -71,6 +71,8 @@ Mobil istemciyi, bir SDK modülü olarak dağıtacağız, esas olarak. Bu SDK, h
 
 Mobil istemciyi hazırladıktan sonra, popüler uygulama üreticileriyle bağlantıya geçeceğiz. Bunların arasından hızlı bir şekilde öncü partner olmak isteyen partnerleri seçeceğiz. İlk etapta, SDK'yı bu partnerlerin uygulamalarına ekleyeceğiz. Uygulama canlı ortamda bir süre test edildikten sonra, geniş yayılım için, yeni partnerlerle bağlantı kurup uygulamanın yayılımını olabildiğince artırmaya çalışacağız.
 
+Daha fazla teknik dökğmantasyon için: https://github.com/CoronaBuster/docs
+
 ## 
 
 
